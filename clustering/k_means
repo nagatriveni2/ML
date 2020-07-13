@@ -1,4 +1,0 @@
-# Load libraries
-from sklearn import datasets
-from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
